@@ -13,3 +13,5 @@ Full documentation is always available at:
 https://developer.atlassian.com/display/DOCS/Introduction+to+the+Atlassian+Plugin+SDK
 
 * atlas-mvn eclipse:eclipse -- update project to be imported by eclipse IDE
+
+* atlas-create-jira-plugin-module -- adding plugin modules (https://developer.atlassian.com/docs/getting-started/plugin-modules)
